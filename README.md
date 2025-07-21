@@ -58,13 +58,6 @@ The dataset was cleaned, filtered, and split into **8 normalized tables**:
 
 ---
 
-## 📈 Example ERD (Entity-Relationship Diagram)
-
-📌 *You can add this image to your GitHub repo:*  
-![ERD Structure](https://i.imgur.com/Z5FzVnP.png)
-
----
-
 ## 📁 Files Included
 
 - `netflix_titles.csv` – Original dataset (Kaggle)
